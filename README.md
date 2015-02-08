@@ -20,7 +20,7 @@ Licence
 =======
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.creativecommons.org/licenses/by-sa/3.0){:target="_blank"}
 
-<p>Creative Commons Attribution-ShareAlike 3.0 Unported License <a href="http://www.creativecommons.org/licenses/by-sa/3.0" target="_blank">a link</a> 
+<p>This work is licensed under a <a href="http://www.creativecommons.org/licenses/by-sa/3.0" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> 
 
 Schematic
 =========
