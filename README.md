@@ -1,6 +1,5 @@
 TLC5940Driver
 =============
-
 Introduction
 ============
 The TLC5940Driver is a development board can be used to investigate the capabilities of upto 3 TLC5940 LED driver chips using an Atmel ATMEGA88
