@@ -12,8 +12,8 @@ Features
 2. 3 TLC5940 LED drivers
 3. Dimming control switch inputs
 4. Soft latching power ON/OFF
-5. Demo HEX file to fade 16 LEDs
-6. Demo HEX file to fade 48 LEDs
+5. Demo HEX file to fade 16 LEDs (TLC5940Driver-1xTLC5940.hex)
+6. Demo HEX file to fade 48 LEDs (TLC5940Driver-3xTLC5940.hex)
 
 Licence
 =======
