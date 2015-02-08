@@ -9,7 +9,7 @@ The TLC5940Driver is a development board can be used to investigate the capabili
 Features
 ========
 1. Reprogrammable ATMEGA88 microcontroller
-2. 3 TLC5940 LED drivers
+2. Upto 3 TLC5940 LED drivers
 3. Dimming control switch inputs
 4. Soft latching power ON/OFF
 5. Demo HEX file to fade 16 LEDs (TLC5940Driver-1xTLC5940.hex)
