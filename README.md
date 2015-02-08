@@ -19,3 +19,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 Schematic
 =========
+![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/6097726/11910584-afc0-11e4-8576-be5b873b6f8f.PNG)
