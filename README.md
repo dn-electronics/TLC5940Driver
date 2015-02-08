@@ -1,14 +1,15 @@
-RCDongle
-=========
+TLC5940Driver
+=============
 Introduction
 ============
-The RCDongle is a plug in USB device that decodes infrared signals.
+The TLC5940Driver is a development board can be used to investigate the capabilities of upto 3 TLC5940 LED driver chips using an Atmel ATMEGA88
 
 Features
 ========
-1. Reprogrammable USB enabled AT90USB162 microcontroller
-2. ESD protection diode
-3. TSOP352/4 IR receiver module with a centre frequency of either 30, 33, 36, 38, 40 or 56 kHz depending on the application.
+1. Reprogrammable ATMEGA88 microcontroller
+2. 3 TLC5940 LED drivers
+3. Dimming control switch inputs
+4. Soft latching power ON/OFF
 
 Licence
 =======
