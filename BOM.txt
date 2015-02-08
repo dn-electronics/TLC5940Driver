@@ -1,0 +1,41 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value          Package            
+
+C1       100nF          P-0805             
+C2       100nF          P-0805             
+C3       100nF          P-0805             
+C4       100nF          P-0805             
+C5       100nF          P-0805             
+C6       2.2uF          P-CAPNICHICON-3MM  
+C7       100nF          P-0805             
+C8       100nF          P-0805             
+C9       100nF          P-0805             
+D1                      P-SOT23-3          
+D2       MBRA140        P-SMA              
+D3       MBRA140        P-SMA              
+IC1      ATMEGA88PA     P-DIL28            
+IC2      SPX3819        P-SOT23-5E         
+IC3      TLC5940        P-DIL28            
+IC4      TLC5940        P-DIL28            
+IC5      TLC5940        P-DIL28            
+ISP1                    P-AVRISPSHROUDED   
+JP1                     P-JST-XH-1X02      
+JP2                     P-JST-XH-1X02      
+L1                      P-0805             
+R1       4K7            P-0805             
+R2       100K           P-0805             
+R3       27K            P-0805             
+R4       15K            P-0805             
+R5       150R           P-0805             
+R6       10K            P-0805             
+R7       10K            P-0805             
+R8       10K            P-0805             
+R9       7K8            P-0805             
+R10      7K8            P-0805             
+R11      7K8            P-0805             
+SW1                     P-JST-XH-1X02-VERT 
+SW2                     P-JST-XH-1X02-VERT 
+SW3                     P-JST-XH-1X02-VERT 
