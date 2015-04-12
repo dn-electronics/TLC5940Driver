@@ -25,3 +25,4 @@ Schematic
 
 LEDPlate
 ========
+![ledplate](https://cloud.githubusercontent.com/assets/5130298/7105035/c409c99a-e0fc-11e4-9680-42f8ffbcb5a7.PNG)
