@@ -13,7 +13,7 @@ C6       2.2uF          P-CAPNICHICON-3MM
 C7       100nF          P-0805             
 C8       100nF          P-0805             
 C9       100nF          P-0805             
-D1                      P-SOT23-3          
+D1       MMBZ5245BLT1G  P-SOT23-3          
 D2       MBRA140        P-SMA              
 D3       MBRA140        P-SMA              
 IC1      ATMEGA88PA     P-DIL28            
@@ -21,10 +21,10 @@ IC2      SPX3819        P-SOT23-5E
 IC3      TLC5940        P-DIL28            
 IC4      TLC5940        P-DIL28            
 IC5      TLC5940        P-DIL28            
-ISP1                    P-AVRISPSHROUDED   
+ISP1     6pin Header    P-AVRISPSHROUDED   
 JP1                     P-JST-XH-1X02      
 JP2                     P-JST-XH-1X02      
-L1                      P-0805             
+L1       BLM21AG102SN1D P-0805             
 R1       4K7            P-0805             
 R2       100K           P-0805             
 R3       27K            P-0805             
