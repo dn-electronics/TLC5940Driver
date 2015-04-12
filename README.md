@@ -21,4 +21,4 @@ Licence
 
 Schematic
 =========
-![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/6097726/11910584-afc0-11e4-8576-be5b873b6f8f.PNG)
+![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/7105030/8a7c9176-e0fc-11e4-9481-b12caadd2334.PNG)
