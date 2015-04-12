@@ -21,7 +21,7 @@ Licence
 
 Schematic
 =========
-![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/7105030/8a7c9176-e0fc-11e4-9481-b12caadd2334.PNG)
+![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/7105189/1923fe66-e105-11e4-80e8-40ed838f922f.PNG)
 
 LEDPlate
 ========
