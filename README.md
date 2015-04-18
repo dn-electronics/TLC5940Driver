@@ -29,7 +29,6 @@ LEDPlate
 
 Programming File Fuse Settings - ATMEGA88 
 =========================================
-Set fuses before flashing program code
 
 1. BOOTSZ: 1024W_0C00
 2. SPIEN: tick
