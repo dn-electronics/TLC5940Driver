@@ -26,3 +26,17 @@ Schematic
 LEDPlate
 ========
 ![ledplate](https://cloud.githubusercontent.com/assets/5130298/7105035/c409c99a-e0fc-11e4-9680-42f8ffbcb5a7.PNG)
+
+Programming File Fuse Settings - ATMEGA88 
+=========================================
+Set fuses before flashing program code
+
+1. BOOTSZ: 1024W_0C00
+2. SPIEN: tick
+3. EESAVE: tick
+4. BODLEVEL: DISABLED
+5. CKOUT: tick
+6. SUT_CKSEL: INTROSC_8MHZ_6CK_14CK_65MS
+7. EXT:  F9
+8. HIGH: D7
+9. LOW:  A2
